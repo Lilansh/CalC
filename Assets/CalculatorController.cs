@@ -3,9 +3,8 @@ using System.Collections.Generic;
 using System.Globalization;
 using System.Text;
 using UnityEngine;
-using UnityEngine.UI;
 using TMPro;
-// using TMPro; // Uncomment if you use TextMeshPro
+
 
 public class CalculatorController : MonoBehaviour
 {
